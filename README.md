@@ -1,1 +1,3 @@
 # javascript
+
+This repository contains javascript codes and tutorials....
